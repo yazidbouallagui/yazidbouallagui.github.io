@@ -1,5 +1,5 @@
 /*
-        Project:		-- Leonardo
+        Project:		-- Portfolio
         Version:	    --
         Create Date:	-- 28-1-18
         Last change:	--
@@ -103,7 +103,7 @@ body{
     height:50px;
     width:50px;
     cursor: pointer;
-    background-color: #c62580;
+    background-color: #661c46;
 }
 .color {
     position:absolute;
@@ -111,7 +111,7 @@ body{
     left:10px;
     width:40px;
     height:40px;
-    background-color:#c62580;
+    background-color:#661c46;
     z-index:1001;
 }
 
@@ -255,7 +255,7 @@ body{
     padding: 4px 8px;
 }
 .navbar-default-first .navbar-nav > li > a {
-    color: #c62580;
+    color: #661c46;
     letter-spacing: 2px;
     font-size: 14px;
     transition: .5s;
@@ -267,7 +267,7 @@ body{
 }
 .navbar-default .navbar-nav > li > a.active {
     color: white;
-    background-color: #c62580;
+    background-color: #661c46;
 }
 .navbar-default .navbar-default.small .navbar-nav > li > a {
     color: #5d5d5d;
@@ -275,7 +275,7 @@ body{
 
 .navbar-default .navbar-nav > li > a:hover {
     color: white;
-    background-color: #c62580;
+    background-color: #661c46;
 }
 .navbar-default .navbar-nav > li > a.active:hover {
     color: white;
@@ -297,7 +297,7 @@ body{
 .site-title h3 {
     margin-top: 0px;
     color: white;
-    background-color: #c62580;
+    background-color: #661c46;
     display: inline-block;
     padding: 25px 10px;
 }
@@ -385,7 +385,7 @@ body{
   left: 0;
   right: 0;
   bottom: 0;
-  background: #c62580;
+  background: #661c46;
   -webkit-transform: scaleX(0);
   transform: scaleX(0);
   -webkit-transform-origin: 0 50%;
@@ -400,7 +400,7 @@ body{
 .hvr-bounce-to-right:hover, .hvr-bounce-to-right:focus, .hvr-bounce-to-right:active {
   color: white;
   text-decoration: none;
-  border: 2px solid #c62580;
+  border: 2px solid #661c46;
 }
 .hvr-bounce-to-right:hover:before, .hvr-bounce-to-right:focus:before, .hvr-bounce-to-right:active:before {
   -webkit-transform: scaleX(1);
@@ -496,7 +496,7 @@ body{
 
 .cd-headline.clip span {
     font-size: 56px;
-    color: #c62580;
+    color: #661c46;
     letter-spacing: 2px;
     font-family: 'Ubuntu', sans-serif;
     margin-bottom: 20px;
@@ -548,7 +548,7 @@ body{
 }
 .home-page h3 {
     color: white;
-    background-color: #c62580;
+    background-color: #661c46;
     display: inline-block;
     padding: 5px 10px;
 }
@@ -644,7 +644,7 @@ section:nth-of-type(2){background:black;height:1600px;}
 .underline1 {
     height: 3px;
     width: 200px;
-    background-color: #c62580;
+    background-color: #661c46;
     margin: auto;
         margin-top: auto;
         margin-left: auto;
@@ -695,7 +695,7 @@ section:nth-of-type(2){background:black;height:1600px;}
     height: 95%;
     width: 95%;
     background-color: transparent;
-    border: 15px solid #c62580;
+    border: 15px solid #661c46;
 }
 .image-over {
     width: calc(100% - 30px);
@@ -729,7 +729,7 @@ section:nth-of-type(2){background:black;height:1600px;}
 
 .about-social li a {
     color: white;
-    background-color: #c62580;
+    background-color: #661c46;
     float: left;
     font-size: 17px;
     transition: .4s;
@@ -773,7 +773,7 @@ section:nth-of-type(2){background:black;height:1600px;}
 }
 .about-details h2 {
     font-size: 28px;
-    color: #c62580;
+    color: #661c46;
     margin-top: 0px;
     line-height: 28px;
     font-style: italic;
@@ -801,7 +801,7 @@ section:nth-of-type(2){background:black;height:1600px;}
     list-style: none;
 }
 .about-text ul li {
-    background-color: #c62580;
+    background-color: #661c46;
     color: black;
     font-size: 18px;
     margin-bottom: 8px;
@@ -820,7 +820,7 @@ section:nth-of-type(2){background:black;height:1600px;}
     font-size: 16px;
     position: relative;
     z-index: 111;
-    background-color: #c62580;
+    background-color: #661c46;
 }
 .about-contact1::after {
     position: absolute;
@@ -881,7 +881,7 @@ section:nth-of-type(2){background:black;height:1600px;}
     bottom: 0;
     width: 100%;
     z-index: 100;
-    border-bottom: 100px solid #c62580;
+    border-bottom: 100px solid #661c46;
     -moz-transform: rotate(0.000001deg);
     -webkit-transform: rotate(0.000001deg);
     -o-transform: rotate(0.000001deg);
@@ -924,7 +924,7 @@ display: inline-block;
     height: 100%;
     width: 95%;
     background-color: transparent;
-    border: 15px solid #c62580;
+    border: 15px solid #661c46;
     margin-left: 40px;
     margin-top: 40px;
 }
@@ -985,7 +985,7 @@ display: inline-block;
     border-radius: 0px;
     color: white;
     cursor: default;
-    background-color: #c62580;
+    background-color: #661c46;
     font-size: 16px;
     transition: .4s;
     -webkit-transition: .4s;
@@ -1000,7 +1000,7 @@ display: inline-block;
     color: white ;
     cursor: default;
     cursor: pointer;
-    background-color: #c62580;
+    background-color: #661c46;
     border: 1px solid #d827a4;
 }
 .container-mix{
@@ -1058,7 +1058,7 @@ display: inline-block;
     padding-left: 50px;
 }
 .day-text h3 {
-    color: #c62580;
+    color: #661c46;
     font-size: 28px;
     line-height: 26px;
     letter-spacing: 1px;
@@ -1098,7 +1098,7 @@ display: inline-block;
     color: white;
 }
 .white-color h3{
-    color: #c62580;
+    color: #661c46;
 }
 
 #accordion .panel{
@@ -1117,7 +1117,7 @@ display: inline-block;
     padding: 18px 35px;
     font-size: 20px;
     color: #fff;
-    background: #c62580;
+    background: #661c46;
     border: none;
     position: relative;
     transition: all 0.3s ease 0s;
@@ -1130,7 +1130,7 @@ display: inline-block;
     height: 40px;
     line-height: 32px;
     border-radius: 50%;
-    background: #c62580;
+    background: #661c46;
     text-align: center;
     font-size: 15px;
     color:#fff;
@@ -1262,14 +1262,14 @@ display: inline-block;
     -ms-transition: .8s;
 }
 .work-statistics:hover{
-    background-color: #c62580;
+    background-color: #661c46;
 }
 .work-statistics:hover h3{
     color: white;
 }
 .work-statistics h3 {
     font-size: 34px;
-    color: #c62580;
+    color: #661c46;
     margin: 0px 0px;
         margin-top: 0px;
         margin-right: 0px;
@@ -1383,7 +1383,7 @@ display: inline-block;
 
 .skill-title h4 {
     font-size: 27px;
-    color: #c62580;
+    color: #661c46;
     margin-top: 0px;
     line-height: 30px;
     margin-bottom: 10px;
@@ -1427,10 +1427,10 @@ display: inline-block;
     padding: 20px 0px;
 }
 .bor-bot {
-    border-bottom: 2px dotted #c62580;
+    border-bottom: 2px dotted #661c46;
 }
 .skill-icon {
-    color: #c62580;
+    color: #661c46;
     font-size: 33px;
     float: left;
     margin-top: 3px;
@@ -1492,7 +1492,7 @@ margin-top: 40px;
     height: 95%;
     width: 95%;
     background-color: transparent;
-    border: 15px solid #c62580;
+    border: 15px solid #661c46;
 }
 .skill-details p {
     font-size: 17px;
@@ -1560,7 +1560,7 @@ margin-top: 40px;
 .expand {
     height: 8px;
     margin: 0px 0px;
-    background: #c62580;
+    background: #661c46;
     position: absolute;
     border-radius: 150px;
 }
@@ -1744,10 +1744,10 @@ display: inline-block;
     
 }
 .service-details:hover{
-    border: 1px solid #c62580;
+    border: 1px solid #661c46;
 }
 .service-details:hover h3{
-    color: #c62580;
+    color: #661c46;
 }
 
 
@@ -1802,17 +1802,17 @@ display: inline-block;
     line-height: 57px;
     display: inline-block;
     font-size: 31px;
-    color: #c62580;
-    border: 1px solid #c62580;
+    color: #661c46;
+    border: 1px solid #661c46;
     margin-bottom: 35px;
     position: relative;
     transform: rotate(-45deg);
     transition: all 0.3s ease 0s;
 }
 .serviceBox:hover .service-icon{
-    background: #c62580;
+    background: #661c46;
     color: white;
-    border-color: #c62580;
+    border-color: #661c46;
 }
 .serviceBox .service-icon:after{
     content: "";
@@ -1837,7 +1837,7 @@ display: inline-block;
 }
 .serviceBox .title {
     font-size: 25px;
-    color: #c62580;
+    color: #661c46;
     margin: 0 0 15px;
 }
 .serviceBox .description {
@@ -1897,7 +1897,7 @@ display: inline-block;
     margin-top: 0px;
 }
 .about-bottom-text ul li a:hover{
-    background-color: #c62580;
+    background-color: #661c46;
     text-decoration: none;
 }
 .link h3{margin-bottom: 22px;}
@@ -1944,7 +1944,7 @@ display: inline-block;
     padding-bottom: 35px;
 }
 .copyright-details{
-    background-color: #c62580;
+    background-color: #661c46;
     margin-top: 50px;
 }
 .copyright h3 {
@@ -1956,7 +1956,7 @@ display: inline-block;
     padding-top: 0px;
 }
 .copyright-text {
-    background-color: #c62580;
+    background-color: #661c46;
     padding: 50px 0px;
 }
 .copyright-text h3 {
@@ -1999,7 +1999,7 @@ display: inline-block;
     bottom: 0;
     width: 100%;
     z-index: 100;
-    border-bottom: 100px solid #c62580;
+    border-bottom: 100px solid #661c46;
     -moz-transform: rotate(0.000001deg);
     -webkit-transform: rotate(0.000001deg);
     -o-transform: rotate(0.000001deg);
@@ -2064,7 +2064,7 @@ display: inline-block;
 .extra-design {
     width: 140%;
     height: 20%;
-    background-color: #c62580;
+    background-color: #661c46;
     position: absolute;
     transform: rotate(331deg) translateX(-122%);
     transition: .3s;
@@ -2131,7 +2131,7 @@ display: inline-block;
     -o-transition: .6s;
     transition-delay: .8s;
     margin-top: 10px;
-    background-color: #c62580;
+    background-color: #661c46;
     width: 50px;
     height: 50px;
     line-height: 50px;
@@ -2180,7 +2180,7 @@ display: inline-block;
     content: '';
     width: 3px;
     height: 25px;
-    background-color: #c62580;
+    background-color: #661c46;
     position: absolute;
     transform: skew(-20deg);
     margin-left: 20px;
@@ -2189,14 +2189,14 @@ display: inline-block;
     content: '';
     width: 0px;
     height: 0px;
-    background-color: #c62580;
+    background-color: #661c46;
     position: absolute;
     transform: skew(-20deg);
     margin-left: 0px;
 }
 #filters li span.active {
     background: transparent;
-    color: #c62580;
+    color: #661c46;
 }
 .no-padding{
     padding: 0px;
@@ -2250,7 +2250,7 @@ display: inline-block;
 
 .copyright-details-work{
     margin-top: 80px;
-    background-color: #c62580;
+    background-color: #661c46;
 }
 .copyright h3 {
     margin: 0px;
@@ -2343,7 +2343,7 @@ display: inline-block;
 
 .fancybox-skin {
     position: relative;
-    background: #c62580;
+    background: #661c46;
     color: #444;
     text-shadow: none;
     -webkit-border-radius: 4px;
@@ -2786,7 +2786,7 @@ overflow: hidden;
     bottom: 0;
     width: 100%;
     z-index: 100;
-    border-bottom: 100px solid #c62580;
+    border-bottom: 100px solid #661c46;
     -moz-transform: rotate(0.000001deg);
     -webkit-transform: rotate(0.000001deg);
     -o-transform: rotate(0.000001deg);
@@ -2869,7 +2869,7 @@ section {
     bottom: -32px;
 }
 #fade-quote-carousel.carousel .carousel-indicators > li {
-    background-color: #c62580;
+    background-color: #661c46;
     border: none;
 }
 #fade-quote-carousel blockquote {
@@ -2885,7 +2885,7 @@ section {
 }
 .item blockquote p span {
     font-size: 23px;
-    color: #c62580;
+    color: #661c46;
     position: relative;
     line-height: 44px;
 }
@@ -2978,7 +2978,7 @@ section {
     margin-top: 0px;
 }
 .testimonial-bg{
-    border: 10px solid #c62580;
+    border: 10px solid #661c46;
     padding: 80px 70px;
     text-align: center;
     position: relative;
@@ -3046,7 +3046,7 @@ section {
     display: inline-block;
     font-size: 23px;
     font-weight: 700;
-    color: #c62580;
+    color: #661c46;
     text-transform: capitalize;
     margin: 0;
 }
@@ -3213,7 +3213,7 @@ display: inline-block;
     box-shadow: 0px 0px 4px 0px #c9c9c9;
 }
 .blog-head a {
-    color: #c62580;
+    color: #661c46;
     font-size: 23px;
     text-decoration: none;
 }
@@ -3233,7 +3233,7 @@ display: inline-block;
     margin-right: 15px;
 }
 .blog-icon{
-    color: #c62580;
+    color: #661c46;
 }
 .blog-bottom{
     margin-top: 15px;
@@ -3279,7 +3279,7 @@ display: inline-block;
 }
 .post-slide .post-title a{
     display: inline-block;
-    color: #c62580;
+    color: #661c46;
     transition: all 0.3s ease 0s;
 }
 .post-slide .post-title a:hover{
@@ -3337,7 +3337,7 @@ display: inline-block;
     text-decoration: none;
 }
 .copyright-details-blog{
-    background-color: #c62580;
+    background-color: #661c46;
     margin-top: 0px;
 }
 .blog-main:hover .blog-img{
@@ -3352,7 +3352,7 @@ display: inline-block;
     position: absolute;
     z-index: 111;
     margin-left: 7.8%;
-    border: 10px solid #c62580;
+    border: 10px solid #661c46;
     margin-top: -19px;
 }
 
@@ -3415,7 +3415,7 @@ display: inline-block;
     bottom: 0;
     width: 100%;
     z-index: 100;
-    border-bottom: 100px solid #c62580;
+    border-bottom: 100px solid #661c46;
     -moz-transform: rotate(0.000001deg);
     -webkit-transform: rotate(0.000001deg);
     -o-transform: rotate(0.000001deg);
@@ -3471,10 +3471,10 @@ display: inline-block;
     -moz-transition: .3s;
     -ms-transition: .3s;
     -o-transition: .3s;
-    border-bottom: 3px solid #c62580;
+    border-bottom: 3px solid #661c46;
 }
 .info-details:hover{
-    border-bottom: 3px solid #c62580;
+    border-bottom: 3px solid #661c46;
 }
 .info-details h3 {
     margin: 0px;
@@ -3498,7 +3498,7 @@ textarea.form-control {
     height: 183px;
 }
 .contact-icon {
-    color: #c62580;
+    color: #661c46;
     font-size: 54px;
     transition: .3s;
     -webkit-transition: .3s;
@@ -3577,7 +3577,7 @@ textarea.form-control {
     box-shadow: inset 0 1px 1px rgba(0,0,0,.075);
 }
 .has-error .help-block {
-    color: #c62580;
+    color: #661c46;
     text-align: center;
 }
 .has-error .form-control:enabled {
@@ -3619,24 +3619,24 @@ textarea.form-control {
     border-color: white;
 }
 .btn-success.disabled {
-    background-color: #c62580;
-    border-color: #c62580;
+    background-color: #661c46;
+    border-color: #661c46;
     color: white;
     opacity: 1.5;
 }
 .btn.disabled:hover{
-    background-color: #c62580;
-    border-color: #c62580;
+    background-color: #661c46;
+    border-color: #661c46;
 }
 .btn-success:hover{
     cursor: pointer;
-    background-color: #c62580;
-    border-color: #c62580;
+    background-color: #661c46;
+    border-color: #661c46;
 }
 .btn-success {
     color: white;
-    background-color: #c62580;
-    border-color: #c62580;
+    background-color: #661c46;
+    border-color: #661c46;
 }
 .text-danger {
     color: white;
@@ -3724,7 +3724,7 @@ textarea.form-control {
 .details-row {
     height: 500px;
     background-color: white;
-    border: 5px solid #c62580;
+    border: 5px solid #661c46;
     box-shadow: 0px 0px 2px 0px #f0f0f0;
     overflow: hidden;
 }
@@ -3784,7 +3784,7 @@ textarea.form-control {
     position: absolute;
     z-index: 111;
     margin-left: 1.8%;
-    border: 10px solid #c62580;
+    border: 10px solid #661c46;
     margin-top: -19px;
 }
 .map-con {
@@ -3820,7 +3820,7 @@ textarea.form-control {
 }
 .about-details h2 {
     font-size: 28px;
-    color: #c62580;
+    color: #661c46;
     margin-top: 0px;
     line-height: 28px;
     font-style: italic;
@@ -3842,7 +3842,7 @@ textarea.form-control {
     padding-bottom: 0px;
 }
 .skill-icon {
-    color: #c62580;
+    color: #661c46;
     font-size: 33px;
     float: left;
     margin-top: 3px;
@@ -3876,7 +3876,7 @@ textarea.form-control {
     -moz-transition: .3s;
     -ms-transition: .3s;
     -o-transition: .3s;
-    border-bottom: 3px solid #c62580;
+    border-bottom: 3px solid #661c46;
 }
 .navbar-nav {
     float: right;
@@ -4198,7 +4198,7 @@ textarea.form-control {
 
 .cd-headline.clip span {
     font-size: 56px;
-    color: #c62580;
+    color: #661c46;
     letter-spacing: 1px;
     font-family: 'Ubuntu', sans-serif;
     margin-bottom: 20px;
@@ -4324,7 +4324,7 @@ textarea.form-control {
     height: 95%;
     width: 92%;
     background-color: transparent;
-    border: 15px solid #c62580;
+    border: 15px solid #661c46;
 }
 .about-social-icon1 {
     padding: 2px 0px;
@@ -4370,7 +4370,7 @@ textarea.form-control {
     }
 .cd-headline.clip span {
     font-size: 36px;
-    color: #c62580;
+    color: #661c46;
     letter-spacing: 1px;
     font-family: 'Ubuntu', sans-serif;
     margin-bottom: 10px;
@@ -4503,7 +4503,7 @@ textarea.form-control {
 
 .skill-title h4 {
     font-size: 20px;
-    color: #c62580;
+    color: #661c46;
     margin-top: 0px;
     line-height: 27px;
 }
@@ -4527,7 +4527,7 @@ textarea.form-control {
     height: 95%;
     width: 85%;
     background-color: transparent;
-    border: 15px solid #c62580;
+    border: 15px solid #661c46;
 }
 .about-details h3 {
     font-size: 33px;
